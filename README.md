@@ -25,7 +25,7 @@ _Auto Price Training_ model evaluated using linear regression in Azure Machine L
 5. Evaluate a regression model
      * Add an Evaluate Model module  
      
-## Conclusion  
+## Output  
 We will get our Auto Price Training model with no-code methodology.
      
      
