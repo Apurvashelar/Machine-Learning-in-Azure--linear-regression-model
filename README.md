@@ -1,4 +1,4 @@
-# Azure Machine Learning - Linear Regresssion Model
+# Azure Machine Learning - Linear Regression Model
 _Auto Price Training_ model evaluated using linear regression in Azure Machine Learning  
 
 ## Introduction  
